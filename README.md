@@ -154,7 +154,7 @@ Add screenshots for:
 
 ## Author
 
-Vignesh Vicky
+S Vignesh
 
 AWS | Linux | DevOps | CCNA | Cloud Computing
 
